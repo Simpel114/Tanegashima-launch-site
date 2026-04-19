@@ -3,18 +3,15 @@ This adds tanegashima launch site only for sol-mod. It's using mtev1 for gamepla
 
 dependencies you need to able to work:
 
--KK_CapeCanaveral
-
--KK_Edwards
-
-
--KK_Houston
-
--KK_Huntsville
-
--KK_Vandenburg
-
--KK_WhiteSands
+* Kerbal Konstructs
+* Tundras Space Center
+* Aurora Space Center
+* KSC Enhanced
+* The Outpost
+* Van's KSC
+* Kerbin Side Remastered
+* Ordinary Konstruction Co
+* Omega's Stockalike Structures: No Texture Required
 
 
 
