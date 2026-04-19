@@ -16,4 +16,7 @@ dependencies you need to able to work:
 
 -KK_WhiteSands
 
-Huge thanks to Proxidesuwa for the launch site and tanegashima island tiles and Jackkk for the KSC cfg.
+
+
+Huge thanks to Proxidesuwa for the launch site and tanegashima island tiles and Jackkk for the KSC configs.
+Without them this mod wouldn't exist.
