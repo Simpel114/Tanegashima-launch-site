@@ -1,7 +1,7 @@
 # Tanegashima-launch-site
 This adds tanegashima launch site only for sol-mod. It's using mtev1 for gameplay purposes
 
-dependencies you need to able to work:
+## Dependencies you need to able to work:
 
 * Kerbal Konstructs
 * Tundras Space Center
