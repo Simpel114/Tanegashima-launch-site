@@ -1,2 +1,2 @@
 # Tanegashima-launch-site
-This adds launch site tanegashima to the Sol mod
+This mod adds tanegashima launch site. It's using mtev1 for gameplay purposes
